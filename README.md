@@ -1,3 +1,7 @@
+## Fork notice
+
+I just forked this to make it work as a library for PlatformIO since it needs the folders inside a src directory otherwise is importing only RGB565_video directory instead of all the classes.
+
 # RGB565_video
 
 Simple example for playing RGB565 raw video
